@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+.vscode/
+.idea/
+# regenerate with: python train.py
+models/*.pkl
